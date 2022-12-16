@@ -1,1 +1,1 @@
-# project_clg
+# INSE 6220 Project
